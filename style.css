@@ -1,0 +1,26 @@
+
+#pickcolor{
+    text-decoration:none;
+}
+
+h1{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.enclose{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    padding-bottom: 2em;
+}
+
+.search-icon{
+    height: 10px;
+    width: auto;
+}
+
